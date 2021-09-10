@@ -1,4 +1,7 @@
-body {margin: 20px;}
+body {
+  margin: 20px;
+  overflow: hidden;
+}
 
 
 #footer {
